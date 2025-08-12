@@ -1,6 +1,6 @@
 # Technical Writing Samples
 ### About this repository
-This repository serves as a comprehensive collection of my technical and non-technical documents. 
+This repository contains an extensive collection of my technical writing documents and projects as part of my portfolio. 
 
 | Sr No. | Document | Document type | Description |
 |:------:|---|---|---|
