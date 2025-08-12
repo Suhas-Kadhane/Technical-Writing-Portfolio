@@ -1,4 +1,4 @@
-# Tech Writing Samples
+# Technical Writing Samples
 ### About this repository
 This repository serves as a comprehensive collection of my technical and non-technical documents. 
 
