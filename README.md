@@ -3,7 +3,8 @@
 ### About this repository
 Welcome to my technical writing portfolio showcasing projects and documentation samples for SaaS products, APIs, and common software tools.
 
-Skills highlighted across these guides: **Technical Writing, API Documentation, Knowledge Management, Confluence, GitHub, Markdown, DITA XML, REST APIs, Agile, AI & No-Code Automation**.
+### Skills highlighted across these guides:
+Technical Writing, API Documentation, Knowledge Management, Confluence, GitHub, Markdown, DITA XML, REST APIs, Agile, AI & No-Code Automation.
 
 | Sr No. | Document | Document type | Description |
 |:------:|---|---|---|
