@@ -1,4 +1,4 @@
-# Technical Writing Samples/Portfolio by Suhas Kadhane
+# My Technical Writing Samples
 
 ### About this repository
 Welcome to my technical writing portfolio showcasing projects and documentation samples for SaaS products, APIs, and common software tools.
