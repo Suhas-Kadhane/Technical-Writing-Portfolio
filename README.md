@@ -1,4 +1,4 @@
-# My Technical Writing Samples
+# My Technical Writing & Knowledge Base Samples
 
 ### About this repository
 Welcome to my technical writing portfolio showcasing projects and documentation samples for SaaS products, APIs, and common software tools.
